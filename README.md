@@ -18,15 +18,25 @@
     -   `Empresa.java`
     -   `ClientePotencial.java`
     -   `Administrador.java`
+    -   `Contacto.java`
+    -   `Campaña.java`
+    -   `Actividad.java`
+    
 -   **Servicios (Services):**
     -   `ClienteService.java`
     -   `EmpresaService.java`
     -   `ClientePotencialService.java`
     -   `AdministradorService.java`
+    -   `ContactoService.java`
+
+
 -   **Controladores (Controllers):**
     -   `ClienteController.java`
     -   `EmpresaController.java`
     -   `ClientePotencialController.java`
     -   `AdministradorController.java`
+    -   `ContactoController.java`
+
+
 -   **Base de Datos (DB):**
    
